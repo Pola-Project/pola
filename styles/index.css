@@ -19,15 +19,15 @@ h2{
 
 
 video{
-	width: 20%;
-	flex-wrap: wrap;
-	margin-left: 50px;
+	width: 40%;
+	
+	margin-left: 70px;
 	margin-bottom: 10px;
 
 }
 div{
 	border: 4px solid goldenrod;
 	color: snow;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
